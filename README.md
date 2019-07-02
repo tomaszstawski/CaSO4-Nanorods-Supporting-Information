@@ -11,8 +11,13 @@ Understanding the gypsum (CaSO4·2H2O) formation pathway from aqueous solution h
 The list of files:
 
 <b>cluster_I_classical_trj.xyz</b>: Trajectory file from the classical MD simulations for cluster I from which Figure 4b in the main text was derived
+
 <b>cluster_I_amoeba_trj.xyz</b>: Trajectory file from the AMOEBA MD simulations for cluster I from which Figure 4b in the main text was derived
+
 <b>cluster_I.cif</b>: Structural file of Ca-SO4 cluster I from Figure 2 in the main text
-<b>cluster_II.cif</b>: Structural file of Ca-SO4 cluster II from Figure 2 in the main text (CIF)
-<b>cluster_III.cif</b>: Structural file of Ca-SO4 cluster III from Figure 2 in the main text (CIF)
-<b>cluster_IV.cif</b>: Structural file of Ca-SO4 cluster IV from Figure 2 in the main text (CIF)
+
+<b>cluster_II.cif</b>: Structural file of Ca-SO4 cluster II from Figure 2 in the main text
+
+<b>cluster_III.cif</b>: Structural file of Ca-SO4 cluster III from Figure 2 in the main text
+
+<b>cluster_IV.cif</b>: Structural file of Ca-SO4 cluster IV from Figure 2 in the main text
