@@ -1,4 +1,6 @@
 # CaSO4-Nanorods-Supporting-Information
+<b> This research was made possible by a Marie Curie grant from the European Commission: the NanoSiAl Individual Fellowship, Project No. 703015. </b>
+
 Supporting Information files for: https://arxiv.org/abs/1904.01007 (The structure of CaSO4 nanorods - the precursor of gypsum)
 
 Tomasz M. Stawski, Alexander E.S. Van Driessche, Rogier Besselink, Emily H. Byrne, Paolo Raiteri, Julian D. Gale, Liane G. Benning
