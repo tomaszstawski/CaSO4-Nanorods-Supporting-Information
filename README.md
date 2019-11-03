@@ -23,3 +23,6 @@ The list of files:
 <b>cluster_III.cif</b>: Structural file of Ca-SO4 cluster III from Figure 2 in the main text
 
 <b>cluster_IV.cif</b>: Structural file of Ca-SO4 cluster IV from Figure 2 in the main text
+
+![](https://user-images.githubusercontent.com/10513547/68089394-a8967f80-fe68-11e9-9f6f-5b106020ec33.png)
+
